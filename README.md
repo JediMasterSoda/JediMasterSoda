@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey 👋
+
+I'm Ben. I create Java resources, APIs in Node.js, and I also create other backend systems.
+
+📫 Feel free to email me (ben@ryben.dev) or DM me on Discord (JediMasterSoda#0718)!
 
 <!--
 **JediMasterSoda/JediMasterSoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
